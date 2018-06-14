@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/pcarvalho/github/miniCurso/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/pcarvalho/github/miniCurso/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pcarvalho/Documents/projects/InstaMobile/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/pcarvalho/Documents/projects/InstaMobile/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]
